@@ -1,12 +1,12 @@
 {
-	"name": "AllDnDItemIcons",
-	"title": "All D&D Item Icons",
-	"description": "This module contains icons in SVG-format for all (non magical) items in the categories Adventuring Gear, Ammunition, Armour, Food and Drink, Gaming Sets, Instruments, Spellcasting foci, Tools, Kits, and Artisan Tools, Trade Good, Vehicles, and Weapons, from the Player's Handbook, and Dungeon Master's Guide, plus some waifs and strays from other books.",
+	"id": "dnd-item-icons-by-gwill",
+	"name": "dnd-item-icons-by-gwill",
+	"title": "D&D Item Icons",
+	"description": "Full colour icons of D&D items in svg-format based on icons and aesthetics from game-icons.net",
 	"authors": [{
 		"name": "Gwillewyn",
         "discord": "Gwillewyn#8953"
 	}],
-    "system": ["dnd5e"],
 	"version": "0.1",
 	"minimumCoreVersion": "0.8.8",
     "compatibleCoreVersion": "10",
