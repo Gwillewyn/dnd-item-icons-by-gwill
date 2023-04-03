@@ -1,5 +1,7 @@
 # D&D Item Icons
 
+Most of these icons are colourised versions of items from [game-icons.net](https://game-icons.net/), some are slightly edited, some are heavily edited, and a few are originals by me trying to harmonise with the aesthetics of other icons.
+
 ## The module includes 
 - Most mundane items from Dungeon Master's Guide (DMG) and Player Handbook (PHB)
     - Adventuring Gear
@@ -34,6 +36,5 @@ Items are mostly sorted by type in subfolders.
 Some items that have multiple types are placed wherever I feel like it, or in some cases have variants in several folders.
 
 ## Credit
-Most of these icons are colourised versions of items from [game-icons.net](https://game-icons.net/), some are slightly edited, some are heavily edited, and a few are originals by me trying to harmonise with the aesthetics of other icons.
 game-icons.net distribute their icons under the terms of [the Creative Commons 3.0 BY license](https://creativecommons.org/licenses/by/3.0/), and by extention, so do I.
 Exact credits can be found in [my Google Sheets](https://docs.google.com/spreadsheets/d/1cR6EdYqG6zh0LHJNNZz8uLUgzssg9XxTcS48HDh8cfk/edit?usp=sharing) where I try to keep track of my mess.
