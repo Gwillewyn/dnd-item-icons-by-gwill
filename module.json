@@ -8,10 +8,12 @@
         "discord": "Gwillewyn#8953"
 	}],
 	"version": "0.1.1",
-	"minimumCoreVersion": "0.8.8",
-    "compatibleCoreVersion": "10",
+	"compatibility": {
+		"minimum": "8",
+		"verified": "10"
+	  },
 	"scripts": [
-		"dnd-item-icons-by-gwill.js"
+		"scripts/dnd-item-icons-by-gwill.js"
 	],
 	"url": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill",
 	"manifest": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill/releases/download/0.1.1/module.json",
