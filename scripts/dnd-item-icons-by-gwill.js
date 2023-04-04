@@ -1,1 +1,1 @@
-console.log('D&D 5e Icons by Gwillewy  Installed');
+console.log('D&D 5e Icons by Gwillewyn  Installed');
