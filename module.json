@@ -11,7 +11,10 @@
 	"minimumCoreVersion": "0.8.8",
     "compatibleCoreVersion": "10",
 	"scripts": [
-		"scripts/AllDnDItemIcons.js"
+		"dnd-item-icons-by-gwill.js"
 	],
+	"url": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill",
+	"manifest": "",
+	"download": "",
     "license": "https://creativecommons.org/licenses/by/3.0/"
 }
