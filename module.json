@@ -3,14 +3,34 @@
 	"title": "D&D Item Icons by Gwillewyn",
 	"description": "Full colour icons of D&D items in svg-format based on icons and aesthetics from game-icons.net",
 	"authors": [{
-		"name": "Gwillewyn"
+		"name": "Gwillewyn",
+		"email": "gwillewyn@gmail.com",
+        "discord": "Gwillewyn#8953"
 	}],
-	"version": "0.1.1",
+	"version": "1.0",
 	"compatibility": {
 		"minimum": "9",
 		"verified": "10"
 	},
 	"url": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill",
-	"manifest": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill/releases/download/0.1.1/module.json",
-	"download": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill/releases/download/0.1.1/dnd-item-icons-by-gwill.zip"
+	"manifest": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill/releases/download/1.0/module.json",
+	"download": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill/releases/download/1.0/dnd-item-icons-by-gwill.zip",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+	"media": [
+		{
+			"type": "icon",
+			"url": "https://raw.githubusercontent.com/Gwillewyn/dnd-item-icons-by-gwill/main/Examples/Icon.webp",
+			"caption": "Gwillewyn"
+		},
+		{
+		  "type": "screenshot",
+		  "url": "https://raw.githubusercontent.com/Gwillewyn/dnd-item-icons-by-gwill/main/Examples/Screenshot.webp",
+		  "caption": "<Choosing icon in character sheet.>"
+		},
+		{
+		  "type": "cover",
+		  "url": "https://raw.githubusercontent.com/Gwillewyn/dnd-item-icons-by-gwill/main/Examples/Cover.webp",
+		  "caption": "D&D Item Icons by Gwillewyn"
+		}
+	  ]
 }
