@@ -9,7 +9,7 @@
 	}],
 	"version": "1.0",
 	"compatibility": {
-		"minimum": "9",
+		"minimum": "5",
 		"verified": "10"
 	},
 	"url": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill",
