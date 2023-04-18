@@ -3,7 +3,23 @@
 Most of these icons are colourised versions of items from [game-icons.net](https://game-icons.net/), some are slightly edited, some are heavily edited, and a few are originals by me trying to harmonise with the aesthetics of other icons.
 
 ## Examples
-![Examples of original icons and modified versions](/Examples/Icons%20Examples.webp)
+![Weapons](/Examples/Items%20-%20Weapons.webp)
+![Adventuring Gear](/Examples/Items%20-%20Adventuring%20Gear.webp)
+
+![Spell Components](/Examples/Items%20-%20Spell%20Components%20and%20Spellcasting%20foci.webp)
+![Treasure](/Examples/Items%20-%20Treasure.webp)
+
+![Trade Goods](/Examples/Items%20-%20Trade%20Goods.webp)
+![Books and Scrolls](/Examples/Items%20-%20Books%20and%20Scrolls.webp)
+
+![Potions and Poisons](/Examples/Items%20-%20Potions,%20Poisions,%20Bottles,%20and%20Vials.webp)
+
+![Vehicles and Siege Equipment](/Examples/Items%20-%20Vehicles%20and%20Siege%20Equipment.webp)
+![Tool Kits](/Examples/Items%20-%20Tools,%20Kits,%20and%20Artisan%20Tools.webp)
+
+![Instruments, Games, Armour](/Examples/Items%20-%20Gaming%20Sets,%20%20Instruments,%20and%20Armour.webp)
+
+![Magic Items](/Examples/Items%20-%20Magical%20Items.webp)
 
 
 ## The module includes 
@@ -39,6 +55,9 @@ Some items come in more than one design for a bit of variety.
 
 Items are mostly sorted by type in subfolders.
 Some items that have multiple types are placed wherever I feel like it, or in some cases have variants in several folders.
+
+## Examples of Modifications
+![Examples of original icons and modified versions](/Examples/Icons%20Examples.webp)
 
 ## Credit
 game-icons.net distribute their icons under the terms of [the Creative Commons 3.0 BY license](https://creativecommons.org/licenses/by/3.0/), and by extention, so do I.
