@@ -56,14 +56,15 @@ Some items come in more than one design for a bit of variety.
 Items are mostly sorted by type in subfolders.
 Some items that have multiple types are placed wherever I feel like it, or in some cases have variants in several folders.
 
-## Examples of Modifications
-![Examples of original icons and modified versions](/Examples/Icons%20Examples.webp)
-
 ## TODO
 - [ ] More Magic Items
 - [ ] More Treasure Items
 - [ ] More Spell Components
 - [ ] Cosmetic variations of some items (mainly armour and shields)
+- [ ] Requests
+
+## Examples of Modifications
+![Examples of original icons and modified versions](/Examples/Icons%20Examples.webp)
 
 ## Credit
 game-icons.net distribute their icons under the terms of [the Creative Commons 3.0 BY license](https://creativecommons.org/licenses/by/3.0/), and by extention, so do I.
