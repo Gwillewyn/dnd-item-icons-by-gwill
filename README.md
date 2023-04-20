@@ -59,6 +59,12 @@ Some items that have multiple types are placed wherever I feel like it, or in so
 ## Examples of Modifications
 ![Examples of original icons and modified versions](/Examples/Icons%20Examples.webp)
 
+## TODO
+- [ ] More Magic Items
+- [ ] More Treasure Items
+- [ ] More Spell Components
+- [ ] Cosmetic variations of some items (mainly armour and shields)
+
 ## Credit
 game-icons.net distribute their icons under the terms of [the Creative Commons 3.0 BY license](https://creativecommons.org/licenses/by/3.0/), and by extention, so do I.
 Exact credits can be found in [my Google Sheets](https://docs.google.com/spreadsheets/d/1cR6EdYqG6zh0LHJNNZz8uLUgzssg9XxTcS48HDh8cfk/edit?usp=sharing) where I try to keep track of my mess.
