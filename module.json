@@ -7,14 +7,14 @@
 		"email": "gwillewyn@gmail.com",
         "discord": "Gwillewyn#8953"
 	}],
-	"version": "1.0",
+	"version": "1.1",
 	"compatibility": {
 		"minimum": "5",
 		"verified": "10"
 	},
 	"url": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill",
-	"manifest": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill/releases/download/1.0/module.json",
-	"download": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill/releases/download/1.0/dnd-item-icons-by-gwill.zip",
+	"manifest": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill/releases/download/1.1/module.json",
+	"download": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill/releases/download/1.1/dnd-item-icons-by-gwill.zip",
     "license": "https://creativecommons.org/licenses/by/3.0/",
 	"media": [
 		{
