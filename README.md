@@ -1,22 +1,22 @@
 # D&D Item Icons
 
-770+ coloured vector images of items from D&D5e.
+880+ coloured vector images of items from D&D5e.
 Vector images are small in file size and infinitely scalable.
 
 ## Examples
 ![Weapons](/Examples/Items%20-%20Weapons.webp)
 ![Adventuring Gear](/Examples/Items%20-%20Adventuring%20Gear.webp)
 
-![Spell Components](/Examples/Items%20-%20Spell%20Components%20and%20Spellcasting%20foci.webp)
-![Treasure](/Examples/Items%20-%20Treasure.webp)
-
-![Trade Goods](/Examples/Items%20-%20Trade%20Goods.webp)
-![Books and Scrolls](/Examples/Items%20-%20Books%20and%20Scrolls.webp)
-
 ![Potions and Poisons](/Examples/Items%20-%20Potions,%20Poisions,%20Bottles,%20and%20Vials.webp)
+
+![Books and Scrolls](/Examples/Items%20-%20Books%20and%20Scrolls.webp)
+![Spell Components](/Examples/Items%20-%20Spell%20Components%20and%20Spellcasting%20foci.webp)
 
 ![Magic Items](/Examples/Items%20-%20Magical%20Items.webp)
 ![Tool Kits](/Examples/Items%20-%20Tools,%20Kits,%20and%20Artisan%20Tools.webp)
+
+![Treasure](/Examples/Items%20-%20Treasure.webp)
+![Trade Goods](/Examples/Items%20-%20Trade%20Goods.webp)
 
 ![Vehicles and Siege Equipment](/Examples/Items%20-%20Vehicles%20and%20Siege%20Equipment.webp)
 ![Armour](/Examples/Items%20-%20Armour.webp)
@@ -43,7 +43,7 @@ Vector images are small in file size and infinitely scalable.
     - Weapons
 - Some Treasure items from DMG and PHB. (Some oddly specific ones have been made more generic.  Some I just didn't feel like making.)
 - All Magic Potions from DMG
-- Some minor magical items
+- Various Magic Items
 - Spell components from PHB, Tasha's Cauldron of Everything, and Xanathar's Guide to Everything. **Nowhere near** everything, but I've tried to make those things that are very specific, hard to find, has a gold value, and any items that get consumed. Basically anything the DM might argue about whether or not you have. 
 - And anything I just felt like making.
 
@@ -52,7 +52,7 @@ Some items come in more than one design for a bit of variety.
 
 ## Additional items include:
 - A multitude of generic bottles and vials with various coloured content
-- Unspecific generic gem stones of a variety of colours
+- Unspecific generic gemstones of a variety of colours
 - Scrolls and Books
 - Items referred to in starting equipment and toolkits that have no specified individual weight or value listed
 - Items of (to me) unknown origin that my party has been awarded in various campaigns
