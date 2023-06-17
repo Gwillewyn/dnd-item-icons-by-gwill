@@ -15,12 +15,16 @@ Vector images are small in file size and infinitely scalable.
 
 ![Potions and Poisons](/Examples/Items%20-%20Potions,%20Poisions,%20Bottles,%20and%20Vials.webp)
 
-![Vehicles and Siege Equipment](/Examples/Items%20-%20Vehicles%20and%20Siege%20Equipment.webp)
+![Magic Items](/Examples/Items%20-%20Magical%20Items.webp)
 ![Tool Kits](/Examples/Items%20-%20Tools,%20Kits,%20and%20Artisan%20Tools.webp)
 
-![Instruments, Games, Armour](/Examples/Items%20-%20Gaming%20Sets,%20%20Instruments,%20and%20Armour.webp)
+![Vehicles and Siege Equipment](/Examples/Items%20-%20Vehicles%20and%20Siege%20Equipment.webp)
+![Armour](/Examples/Items%20-%20Armour.webp)
 
-![Magic Items](/Examples/Items%20-%20Magical%20Items.webp)
+![Instruments](/Examples/Items%20-%20Instruments.webp)
+![Gaming Sets](/Examples/Items%20-%20Gaming%20Sets.webp)
+![Ammunition](/Examples/Items%20-%20Ammunition.webp)
+
 
 
 ## The module includes 
