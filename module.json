@@ -1,5 +1,6 @@
 {
 	"id": "dnd-item-icons-by-gwill",
+	"name":  "dnd-item-icons-by-gwill",
 	"title": "D&D Item Icons by Gwillewyn",
 	"description": "Full colour icons of D&D items in svg-format based on icons and aesthetics from game-icons.net",
 	"authors": [{
@@ -8,10 +9,12 @@
         "discord": "Gwillewyn#8953"
 	}],
 	"version": "1.2.0",
-	"compatibility": {
-		"minimum": "5",
-		"verified": "11"
-	},
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": "0.8.6",
+        "verified": "11"
+    },
 	"url": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill",
 	"manifest": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill/releases/download/1.2.0/module.json",
 	"download": "https://github.com/Gwillewyn/dnd-item-icons-by-gwill/releases/download/1.2.0/dnd-item-icons-by-gwill.zip",
